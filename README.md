@@ -40,17 +40,6 @@ Other:
 
 Cloudinary (Images)
 Google Maps / Leaflet (Map)
-▶️ How to Run
-Backend
-cd backend
-pip install -r requirements.txt
-python main.py
-Frontend
-cd frontend
-npm install
-npm run dev
-🎥 Demo Video
-
 
 👩‍💻 Team
 More Neha 
