@@ -1,2 +1,59 @@
-# smart-resource-allocation
-AI powered Smart Resource Allocation System for efficient problem solving and volunteer management
+🚀 SmartAid – Smart Resource Allocation System
+
+SmartAid is an AI-powered NGO platform that helps manage real-world problems by intelligently allocating volunteers using real-time data and Gemini AI.
+
+🔥 Features
+Problem Reporting System
+Volunteer Registration & Approval
+Admin Dashboard with Heatmap
+Smart Resource Allocation
+AI Chat Assistant (Gemini Integration)
+Program Management System
+🧠 AI Integration
+
+We use Google Gemini AI to:
+
+Analyze user queries
+Assist decision-making
+Provide intelligent responses
+Support chat system
+🛠 Tech Stack
+
+Frontend:
+
+React + Vite
+Tailwind CSS
+
+Backend:
+
+Python (FastAPI / Flask)
+
+Database:
+
+PostgreSQL / Aiven
+
+Authentication:
+
+Firebase Auth (Google Login)
+
+Other:
+
+Cloudinary (Images)
+Google Maps / Leaflet (Map)
+▶️ How to Run
+Backend
+cd backend
+pip install -r requirements.txt
+python main.py
+Frontend
+cd frontend
+npm install
+npm run dev
+🎥 Demo Video
+
+
+👩‍💻 Team
+More Neha 
+Janhavi Zope
+Ankita Khokhar
+Krupa Chavan
