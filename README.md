@@ -95,7 +95,9 @@ Follow these clear steps to run the full stack on your local machine.
 
 ---
 
-## 👨‍💻 Team & Contribution
+## 👨‍💻 Team
 
-This system is built for hackathons and production deployments focusing on civic tech. 
-**SmartAid 2.0** — Moving fast to save lives.
+Neha More
+Ankita Khokhar
+Janhavi Zope
+Krupa Chavan
