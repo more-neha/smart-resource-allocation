@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAF6FC"/>
+      <stop offset="1" stop-color="#FFFDFE"/>
+    </linearGradient>
+    <filter id="softShadow" x="0" y="0" width="1200" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#D7CBDD" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="600" rx="26" fill="url(#bg)"/>
+
+  <rect x="76" y="62" width="1048" height="476" rx="24" fill="#FFFFFF" filter="url(#softShadow)"/>
+
+  <rect x="108" y="96" width="984" height="52" rx="14" fill="#F6F1F9"/>
+  <circle cx="136" cy="122" r="8" fill="#E9DFF0"/>
+  <rect x="156" y="113" width="120" height="18" rx="9" fill="#E8DCEE"/>
+  <rect x="928" y="109" width="72" height="26" rx="13" fill="#F4DDE8"/>
+  <rect x="1010" y="109" width="52" height="26" rx="13" fill="#E9E4F3"/>
+
+  <g>
+    <rect x="108" y="170" width="984" height="68" rx="14" fill="#FCFAFD"/>
+    <rect x="126" y="193" width="22" height="22" rx="6" fill="#E9E1F0"/>
+    <path d="M132 203.5L137.5 209L143.5 199.5" stroke="#B89AC9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="162" y="189" width="220" height="12" rx="6" fill="#E9E1F0"/>
+    <rect x="162" y="206" width="146" height="10" rx="5" fill="#F0E9F5"/>
+    <rect x="508" y="194" width="260" height="14" rx="7" fill="#EFE6F4"/>
+    <rect x="508" y="194" width="184" height="14" rx="7" fill="#DCC5E6"/>
+    <rect x="796" y="188" width="84" height="24" rx="12" fill="#F4DCE7"/>
+    <rect x="890" y="188" width="78" height="24" rx="12" fill="#E8E1F2"/>
+    <rect x="978" y="188" width="96" height="24" rx="12" fill="#F1E8F6"/>
+  </g>
+
+  <g>
+    <rect x="108" y="252" width="984" height="68" rx="14" fill="#FCFAFD"/>
+    <rect x="126" y="275" width="22" height="22" rx="6" fill="#E9E1F0"/>
+    <path d="M132 285.5L137.5 291L143.5 281.5" stroke="#B89AC9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="162" y="271" width="236" height="12" rx="6" fill="#E9E1F0"/>
+    <rect x="162" y="288" width="170" height="10" rx="5" fill="#F0E9F5"/>
+    <rect x="508" y="276" width="260" height="14" rx="7" fill="#EFE6F4"/>
+    <rect x="508" y="276" width="126" height="14" rx="7" fill="#DCC5E6"/>
+    <rect x="796" y="270" width="84" height="24" rx="12" fill="#F4DCE7"/>
+    <rect x="890" y="270" width="78" height="24" rx="12" fill="#E8E1F2"/>
+    <rect x="978" y="270" width="96" height="24" rx="12" fill="#F1E8F6"/>
+  </g>
+
+  <g>
+    <rect x="108" y="334" width="984" height="68" rx="14" fill="#FCFAFD"/>
+    <rect x="126" y="357" width="22" height="22" rx="6" fill="#E9E1F0"/>
+    <path d="M132 367.5L137.5 373L143.5 363.5" stroke="#B89AC9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="162" y="353" width="214" height="12" rx="6" fill="#E9E1F0"/>
+    <rect x="162" y="370" width="132" height="10" rx="5" fill="#F0E9F5"/>
+    <rect x="508" y="358" width="260" height="14" rx="7" fill="#EFE6F4"/>
+    <rect x="508" y="358" width="206" height="14" rx="7" fill="#DCC5E6"/>
+    <rect x="796" y="352" width="84" height="24" rx="12" fill="#F4DCE7"/>
+    <rect x="890" y="352" width="78" height="24" rx="12" fill="#E8E1F2"/>
+    <rect x="978" y="352" width="96" height="24" rx="12" fill="#F1E8F6"/>
+  </g>
+
+  <g>
+    <rect x="108" y="416" width="984" height="90" rx="14" fill="#F9F4FB"/>
+    <rect x="130" y="438" width="280" height="10" rx="5" fill="#E9E1F0"/>
+    <rect x="130" y="456" width="188" height="10" rx="5" fill="#EFE6F4"/>
+    <rect x="508" y="438" width="408" height="14" rx="7" fill="#EFE6F4"/>
+    <rect x="508" y="438" width="292" height="14" rx="7" fill="#D8BEE4"/>
+    <rect x="930" y="430" width="144" height="30" rx="15" fill="#EDE4F3"/>
+    <rect x="930" y="468" width="112" height="20" rx="10" fill="#F4DCE7"/>
+  </g>
+</svg>

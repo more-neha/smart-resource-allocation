@@ -1,0 +1,22 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SmartAid logo</title>
+  <desc id="desc">A maroon shield with a helping hand and medical cross.</desc>
+  <defs>
+    <linearGradient id="shieldGrad" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9B0026"/>
+      <stop offset="1" stop-color="#5D0017"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="50" y1="54" x2="114" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4F6"/>
+      <stop offset="1" stop-color="#FFD7DF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="74" fill="#FFF7F9"/>
+  <circle cx="80" cy="80" r="66" fill="url(#shieldGrad)"/>
+  <path d="M80 34L114 46V76C114 100.5 98.8 117.6 80 126C61.2 117.6 46 100.5 46 76V46L80 34Z" fill="url(#accentGrad)" opacity="0.18"/>
+  <path d="M80 42L108 51V75C108 95.7 95 109.8 80 117C65 109.8 52 95.7 52 75V51L80 42Z" fill="#800020"/>
+  <path d="M80 53C68.4 53 59 62.4 59 74C59 85.6 68.4 95 80 95C91.6 95 101 85.6 101 74C101 62.4 91.6 53 80 53ZM84 63H77V70H70V77H77V84H84V77H91V70H84V63Z" fill="#FFF7F9"/>
+  <path d="M56 106C64.2 94.5 73.3 89 80 89C86.7 89 95.8 94.5 104 106" stroke="#FFF7F9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M49 63C56 67 63 69 69.5 68.5" stroke="#FFD7DF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M111 63C104 67 97 69 90.5 68.5" stroke="#FFD7DF" stroke-width="6" stroke-linecap="round"/>
+</svg>
