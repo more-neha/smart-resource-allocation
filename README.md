@@ -1,4 +1,4 @@
-# 🌍 SmartAid 2.0 — AI-Powered NGO Resource System (SRA AI)
+# 🌍 SmartAid — AI-Powered NGO Resource System (SRA AI)
 
 SmartAid is a next-generation platform designed to revolutionize how Non-Governmental Organizations (NGOs) and civic bodies respond to emergencies and community needs. By combining crowdsourced incident reporting, real-time mapping, and a robust volunteer management network, SmartAid ensures resources are allocated with startup-speed precision.
 
